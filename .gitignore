@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Visual Studio Code specific files
+.vscode/
+
+# Log files
+*.log
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Compiled files
+*.dll
+*.exe
+
+# PyInstaller
+build/
+dist/
+
+# Environment variables
+.env
+
+# Jupyter kernelspec files
+.jupyter/
