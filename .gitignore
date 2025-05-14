@@ -29,3 +29,5 @@ dist/
 
 # Jupyter kernelspec files
 .jupyter/
+data/raw/*.tsv
+data/raw/*.sqlite
